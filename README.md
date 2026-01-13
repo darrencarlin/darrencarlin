@@ -7,4 +7,4 @@
 
 - 🍺 [The Guinness Map](https://www.theguinnessmap.com/) - Guinness review platform with 10k MAU (Web, iOS, Android)
 - 🟩 [Wordle Discord Bot](https://www.wordlediscordbot.com/) - Wordle Discord Bot
-- 👆🏻 [Pointdexter](http://pointdexter.io/) - Real-time collaborative story point estimation app
+- 👆🏻 [Pointdexter](https://www.pointdexter.io/) - Real-time collaborative story point estimation app
